@@ -13,4 +13,5 @@ int main()
         std::cout << ' ';
     } while(std::prev_permutation(A.begin(), A.end()));
     std::cout << '\n';
+    
 }
